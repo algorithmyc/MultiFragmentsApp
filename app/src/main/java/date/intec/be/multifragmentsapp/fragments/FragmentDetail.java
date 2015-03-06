@@ -17,6 +17,7 @@ public class FragmentDetail extends Fragment {
 
     private TextView mTxtvDetail;
     private String hello ="Halooooo";
+    private float Tinkiwinki = 4544544;
 
 
     public FragmentDetail() {
