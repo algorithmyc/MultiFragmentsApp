@@ -16,6 +16,7 @@ import date.intec.be.multifragmentsapp.R;
 public class FragmentDetail extends Fragment {
 
     private TextView mTxtvDetail;
+    private String hello ="Halooooo";
 
 
     public FragmentDetail() {
